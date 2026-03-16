@@ -1,3 +1,3 @@
 ## Телеграм-бот получение погоды
 - Для запуска скачайте файл и запустите. Не забудьте внести токен вашего бота.
-[GitHub] https://github.com/avnemykin/weatherbot.git
+[GitHub] (https://github.com/avnemykin/weatherbot.git)
